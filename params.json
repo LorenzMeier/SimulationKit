@@ -1,0 +1,6 @@
+{
+  "name": "Simulationkit",
+  "tagline": "Simulation bindings to connect arbitrary autopilot stacks and simulators.",
+  "body": "### Welcome to Simulationkit\r\nSimulationkit is an easy to use API to connect robotic simulators (not limited to drones) to software-in-the-loop (SITL) and hardware-in-the-loop (HITL) instances of the robot software. It currently supports MAVLink and ROS bindings.\r\n\r\n### Installation\r\nOur first release focuses on the [MAVLink](http://github.com/mavlink/c_library) Protocol / API\r\n\r\n### Supported Simulators\r\nSimulationkit currently supports the [jMAVSim](http://github.com/PX4/jMAVSim) and [Gazebo](http://github.com/PX4/sitl_gazebo) simulators.\r\n\r\n### Adopters\r\nThe PX4 Flight Stack and AutoQuad are using Simulationkit to interface to their autopilots.\r\n\r\n### Authors and Contributors\r\nSimulationkit is maintained by @LorenzMeier (PX4) and @mpaperno (AutoQuad).\r\n\r\n### Support or Contact\r\nHaving trouble with Simulationkit? Contact us on our Gitter [Simulationkit channel](http://gitter.im/PX4/Firmware)!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
